@@ -1,11 +1,11 @@
 <div align="center">
   
-# 👋 Salom, men Az1zbekx!
+# 👋 Hey, I'm Az1zbekx!
 
-### 🚀 AI Researcher bo'lish yo'lida | CP Lover | Backend Dev
+### 🚀 Aspiring AI Researcher | Competitive Programmer | Backend Developer
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=500&lines=AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Competitive+Programmer+%F0%9F%92%BB;Backend+Developer+%E2%9A%99%EF%B8%8F;Data+Analytics+Explorer+%F0%9F%93%8A;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=520&lines=AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Competitive+Programmer+%F0%9F%92%BB;Backend+Developer+%E2%9A%99%EF%B8%8F;Data+Analytics+Explorer+%F0%9F%93%8A;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Az1zbekx&color=6C63FF&style=for-the-badge)
@@ -14,30 +14,30 @@
 
 ---
 
-## 🧑‍💻 Men haqimda
+## 🧑‍💻 About Me
 
 ```yaml
-Ism: Az1zbekx
-Joylashuv: Toshkent, O'zbekiston 🇺🇿
-Ta'lim:
-  - PDP University (1/4 kurs)
+Name: Az1zbekx
+Location: Tashkent, Uzbekistan 🇺🇿
+Education:
+  - PDP University (Freshman — 1st/4th year)
   - MAAB Academy
-Yo'nalish: Artificial Intelligence & Research
-Maqsad: AI sohasida eng zo'r Researcher bo'lish 🎯
+Focus: Artificial Intelligence & Research
+Goal: Become a top-tier AI Researcher 🎯
 ```
 
-- 🔬 Hozirda **AI & Machine Learning** sohasini chuqur o'rganmoqdaman
-- 🏫 **PDP University** talabasi (1-kurs) va **MAAB Academy** o'quvchisi
-- 💡 Har doim yangi narsalar o'rganishga tayyorman
-- ⚡ Competitive Programming bilan shug'ullanaman
+- 🔬 Currently diving deep into **AI & Machine Learning**
+- 🏫 Studying at **PDP University** (1st year) and **MAAB Academy**
+- 💡 Passionate about learning something new every single day
+- ⚡ Competitive Programming enthusiast — I love solving problems
 
 ---
 
-## 🛠️ Texnologiyalar & Toollar
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-### 💻 Dasturlash Tillari
+### 💻 Programming Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -61,14 +61,14 @@ Maqsad: AI sohasida eng zo'r Researcher bo'lish 🎯
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-### 🧮 Matematika Asoslari
+### 🧮 Math Foundations
 `Linear Algebra` `Calculus` `Probability & Statistics` `Algebra`
 
 </div>
 
 ---
 
-## 📈 GitHub Statistika
+## 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Az1zbekx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" width="49%" />
@@ -95,30 +95,30 @@ Maqsad: AI sohasida eng zo'r Researcher bo'lish 🎯
 
 ---
 
-## 🗺️ Yo'l Xaritam
+## 🗺️ My Roadmap
 
 ```
-🎯 AI Researcher bo'lish maqsadim:
+🎯 Journey to becoming an AI Researcher:
 
-📌 Hozir:    AI/ML asoslarini o'rganish, CP bilan shug'ullanish
-📌 Keyingi:  Deep Learning, NLP, Computer Vision chuqur o'rganish
-📌 Maqsad:   AI Research paperlari yozish va innovatsion loyihalar yaratish
+📌 Now:      Learning AI/ML fundamentals, grinding Competitive Programming
+📌 Next:     Deep Learning, NLP, Computer Vision — going deeper
+📌 Goal:     Publishing AI research papers & building innovative projects
 ```
 
 ---
 
-## ⚽ IT dan tashqari
+## ⚽ Beyond the Code
 
 <table>
   <tr>
-    <td align="center">⚽<br><b>Futbol</b><br>Hala Madrid! 🤍</td>
-    <td align="center">🎮<br><b>Dota 2</b><br>Offlane 💪</td>
+    <td align="center">⚽<br><b>Football</b><br>¡Hala Madrid! 🤍</td>
+    <td align="center">🎮<br><b>Dota 2</b><br>Offlane Main 💪</td>
   </tr>
 </table>
 
 ---
 
-## 🤝 Bog'lanish
+## 🤝 Connect With Me
 
 <div align="center">
 
