@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-<!--
+<p align="left">
+  <img src="https://leetcard.jacoblin.cool/Az1zbekx?theme=dark&font=Karma&ext=contest" />
+</p>
+
+![](https://komarev.com/ghpvc/?username=Az1zbekx)
 **Az1zbekx/Az1zbekx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
