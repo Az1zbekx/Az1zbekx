@@ -11,7 +11,7 @@
 
 ## My LeetCode
 
-https://leetcode.com/u/0QJ6TxH8th/
+https://leetcode.com/u/Az1zbekx/
 **Az1zbekx/Az1zbekx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
