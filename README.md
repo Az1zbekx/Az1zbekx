@@ -12,7 +12,6 @@
 
 </div>
 
----
 
 ## 🧑‍💻 About Me
 
@@ -48,7 +47,6 @@
 
 </div>
 
----
 
 ## 🛠️ Tech Stack & Tools
 
@@ -101,8 +99,6 @@
 
 </div>
 
----
-
 ## 🎮 Beyond the Code
 
 <div align="center">
@@ -110,7 +106,7 @@
 <table>
   <tr>
     <td align="center" width="150">
-      ⚽<br><b>Football</b><br>¡Hala Madrid! 🤍
+      ⚽<br><b>Football</b><br>Hala Madrid 🤍
     </td>
     <td align="center" width="150">
       🎮<br><b>Dota 2</b><br>Offlane Main 💪
@@ -124,16 +120,6 @@
   </tr>
 </table>
 
-### ♟️ My Chess.com Stats
-
-[![Chess.com Stats](https://chess-readme-board.vercel.app/api?username=Az1zbekx)](https://www.chess.com/member/Az1zbekx)
-
-> 💡 *Chess.com username ni o'zingizniki bilan almashtiring!*
-
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -144,11 +130,5 @@
 
 </div>
 
----
 
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Az1zbekx&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Az1zbekx&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</div>
 
