@@ -2,10 +2,10 @@
   
 # 👋 Hey, I'm Az1zbekx!
 
-### 🚀 Aspiring AI Researcher | Competitive Programmer | Backend Developer
+### 🚀 Future AI Researcher | Competitive Programmer | Backend Developer | Data analyst
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=520&lines=AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Competitive+Programmer+%F0%9F%92%BB;Backend+Developer+%E2%9A%99%EF%B8%8F;Data+Analytics+Explorer+%F0%9F%93%8A;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=520&lines=AI+%26+Machine+Learning+%F0%9F%A4%96;Competitive+Programmer+%F0%9F%92%BB;Backend+Developer+%E2%9A%99%EF%B8%8F;Data+Analytics+Explorer+%F0%9F%93%8A" alt="Typing SVG" />
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Az1zbekx&color=6C63FF&style=for-the-badge)
@@ -26,12 +26,8 @@ Focus: Artificial Intelligence & Research
 Goal: Become a top-tier AI Researcher 🎯
 ```
 
-- 🔬 Currently diving deep into **AI & Machine Learning**
-- 🏫 Studying at **PDP University** (1st year) and **MAAB Academy**
-- 💡 Passionate about learning something new every single day
-- ⚡ Competitive Programming enthusiast — I love solving problems
 
----
+
 
 ## 🛠️ Tech Stack & Tools
 
@@ -66,20 +62,6 @@ Goal: Become a top-tier AI Researcher 🎯
 
 </div>
 
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Az1zbekx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Az1zbekx&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="49%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Az1zbekx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" width="40%" />
-</div>
-
----
 
 ## 🏆 LeetCode Stats
 
@@ -93,19 +75,7 @@ Goal: Become a top-tier AI Researcher 🎯
   
 </div>
 
----
 
-## 🗺️ My Roadmap
-
-```
-🎯 Journey to becoming an AI Researcher:
-
-📌 Now:      Learning AI/ML fundamentals, grinding Competitive Programming
-📌 Next:     Deep Learning, NLP, Computer Vision — going deeper
-📌 Goal:     Publishing AI research papers & building innovative projects
-```
-
----
 
 ## ⚽ Beyond the Code
 
@@ -127,16 +97,3 @@ Goal: Become a top-tier AI Researcher 🎯
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Az1zbekx)
 
-</div>
-
----
-
-<div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Az1zbekx&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF" width="95%"/>
-
-  ### 💜 "The goal is not to be the best, but to be better than yesterday."
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%"/>
-  
-</div>
