@@ -93,11 +93,13 @@
 
 ## 🏆 LeetCode Stats
 
-<img src="https://leetcard.jacoblin.cool/0QJ6TxH8th?theme=dark&font=Karma&ext=contest" />
+<img src="https://leetcard.jacoblin.cool/Az1zbekx?theme=dark&font=Karma&ext=contest" />
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/0QJ6TxH8th)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Az1zbekx)
 
 </div>
+
+---
 
 ## 🎮 Beyond the Code
 
@@ -106,7 +108,7 @@
 <table>
   <tr>
     <td align="center" width="150">
-      ⚽<br><b>Football</b><br>Hala Madrid 🤍
+      ⚽<br><b>Football</b><br>¡Hala Madrid! 🤍
     </td>
     <td align="center" width="150">
       🎮<br><b>Dota 2</b><br>Offlane Main 💪
@@ -120,6 +122,10 @@
   </tr>
 </table>
 
+</div>
+
+---
+
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -129,6 +135,3 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/YOUR_KAGGLE_USERNAME)
 
 </div>
-
-
-
