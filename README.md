@@ -3,7 +3,7 @@
 ## LeetCode Stats
 
 <p align="left">
-  <img src="https://leetcard.jacoblin.cool/0QJ6TxH8th?theme=dark&font=Karma&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/Az1zbekx?theme=dark&font=Karma&ext=contest" />
 </p>
 
 ## Profile Views
