@@ -70,10 +70,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
-### ⚙️ Backend
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
 ### 📊 Data Analytics
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -99,7 +95,7 @@
 
 ## 🏆 LeetCode Stats
 
-<img src="https://leetcard.jacoblin.cool/0QJ6TxH8th?theme=dark&font=Karma&ext=contest" />
+<img src="https://leetcard.jacoblin.cool/Az1zbekx?theme=dark&font=Karma&ext=contest" />
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Az1zbekx)
 
@@ -130,7 +126,7 @@
 
 ### ♟️ My Chess.com Stats
 
-[![Chess.com Stats](https://chess-readme-board.vercel.app/api?username=YOUR_CHESSCOM_USERNAME)](https://www.chess.com/member/YOUR_CHESSCOM_USERNAME)
+[![Chess.com Stats](https://chess-readme-board.vercel.app/api?username=Az1zbekx)](https://www.chess.com/member/Az1zbekx)
 
 > 💡 *Chess.com username ni o'zingizniki bilan almashtiring!*
 
@@ -156,6 +152,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Az1zbekx&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </div>
 
-<div align="center">
-  ⭐ **"The best way to predict the future is to create it."** ⭐
-</div>
