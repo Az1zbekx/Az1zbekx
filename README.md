@@ -93,9 +93,9 @@
 
 ## 🏆 LeetCode Stats
 
-<img src="https://leetcard.jacoblin.cool/Az1zbekx?theme=dark&font=Karma&ext=contest" />
+<img src="https://leetcard.jacoblin.cool/0QJ6TxH8th?theme=dark&font=Karma&ext=contest" />
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Az1zbekx)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/0QJ6TxH8th)
 
 </div>
 
