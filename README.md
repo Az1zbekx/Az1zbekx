@@ -87,8 +87,6 @@
 
 </div>
 
----
-
 <div align="center">
 
 ## 🏆 LeetCode Stats
@@ -98,8 +96,6 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/0QJ6TxH8th/)
 
 </div>
-
----
 
 ## 🎮 Beyond the Code
 
@@ -123,8 +119,6 @@
 </table>
 
 </div>
-
----
 
 ## 🤝 Connect With Me
 
