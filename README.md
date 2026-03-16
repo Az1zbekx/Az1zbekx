@@ -2,10 +2,10 @@
   
 # 👋 Hey, I'm Az1zbekx!
 
-### 🚀 Future AI Researcher | Competitive Programmer | Backend Developer | Data Analyst
+### AI & Agent Developer | Competitive Programmer | Backend Developer 
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=520&lines=AI+Agent+Developer+%F0%9F%A4%96;Competitive+Programmer+%F0%9F%92%BB;Backend+Developer+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=520&lines=AI+&+Agent+Developer+%F0%9F%A4%96;Competitive+Programmer+%F0%9F%92%BB;Backend+Developer+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 </div>
