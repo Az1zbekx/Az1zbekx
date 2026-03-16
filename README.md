@@ -5,10 +5,8 @@
 ### 🚀 Future AI Researcher | Competitive Programmer | Backend Developer | Data Analyst
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=520&lines=AI+Agent+Developer+%F0%9F%A4%96;Competitive+Programmer+%F0%9F%92%BB;Backend+Developer+%E2%9A%99%EF%B8%8F;Data+Analytics+Explorer+%F0%9F%93%8A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=520&lines=AI+Agent+Developer+%F0%9F%A4%96;Competitive+Programmer+%F0%9F%92%BB;Backend+Developer+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
 </p>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Az1zbekx&color=6C63FF&style=for-the-badge)
 
 </div>
 
@@ -67,12 +65,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-
-### 📊 Data Analytics
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ### 🧮 Math Foundations
 
@@ -81,7 +74,6 @@
     <td align="center">📐<br><b>Linear Algebra</b></td>
     <td align="center">📈<br><b>Calculus</b></td>
     <td align="center">🎲<br><b>Probability & Statistics</b></td>
-    <td align="center">🔢<br><b>Discrete Math</b></td>
   </tr>
 </table>
 
@@ -104,7 +96,7 @@
 <table>
   <tr>
     <td align="center" width="150">
-      ⚽<br><b>Football</b><br>¡Hala Madrid! 🤍
+      ⚽<br><b>Football</b><br>Hala Madrid 🤍
     </td>
     <td align="center" width="150">
       🎮<br><b>Dota 2</b><br>Offlane Main 💪
