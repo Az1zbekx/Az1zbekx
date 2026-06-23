@@ -89,29 +89,6 @@
 
 </div>
 
-## 🎮 Beyond the Code
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="150">
-      ⚽<br><b>Football</b><br>Hala Madrid 🤍
-    </td>
-    <td align="center" width="150">
-      🎮<br><b>Dota 2</b><br>Offlane Main 💪
-    </td>
-    <td align="center" width="150">
-      🪖<br><b>World of Tanks</b><br>Tank Commander 🔥
-    </td>
-    <td align="center" width="150">
-      ♟️<br><b>Chess</b><br>Strategic Thinker 🧠
-    </td>
-  </tr>
-</table>
-
-</div>
-
 ## 🤝 Connect With Me
 
 <div align="center">
