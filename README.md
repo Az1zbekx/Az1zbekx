@@ -27,9 +27,9 @@
   *Empirical benchmarking of 102 open-source vision, speech, and language models under strict 4GB VRAM constraints (NVIDIA GTX 1650 / CPU).*  
   `PyTorch` `Ultralytics YOLO` `Whisper` `Docker Profiles` `llama.cpp`
 
-- 🧠 [MAAB-ML (Machine Learning from Scratch)](https://github.com/Az1zbekx/MAAB-ML)  
-  *Mathematical implementation of core ML algorithms from scratch (Decision Trees, Gradient Descent, SVM, PCA) and model serving with FastAPI.*  
-  `Python` `NumPy` `scikit-learn` `FastAPI` `Math Foundations`
+- 🧠 [MAAB-Data-Science-Track](https://github.com/Az1zbekx/MAAB-Data-Science-Track)  
+  *Comprehensive Data Science & Machine Learning track: Python, SQL, and core algorithms implemented from mathematical first principles with FastAPI serving.*  
+  `Python` `NumPy` `scikit-learn` `FastAPI` `PostgreSQL` `Math Foundations`
 
 - 🎯 [Grant_AI](https://github.com/Az1zbekx/Grant_AI)  
   *End-to-end intelligent grant evaluation, scoring pipeline, and document assessment prototype.*  
