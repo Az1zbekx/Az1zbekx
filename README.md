@@ -22,6 +22,25 @@
 
 ---
 
+### 🚀 Featured Engineering Projects
+- 🔬 [100-OpenSource-Models-Review](https://github.com/Az1zbekx/100-opensource-models-review)  
+  *Empirical benchmarking of 102 open-source vision, speech, and language models under strict 4GB VRAM constraints (NVIDIA GTX 1650 / CPU).*  
+  `PyTorch` `Ultralytics YOLO` `Whisper` `Docker Profiles` `llama.cpp`
+
+- 🧠 [MAAB-ML (Machine Learning from Scratch)](https://github.com/Az1zbekx/MAAB-ML)  
+  *Mathematical implementation of core ML algorithms from scratch (Decision Trees, Gradient Descent, SVM, PCA) and model serving with FastAPI.*  
+  `Python` `NumPy` `scikit-learn` `FastAPI` `Math Foundations`
+
+- 🎯 [Grant_AI](https://github.com/Az1zbekx/Grant_AI)  
+  *End-to-end intelligent grant evaluation, scoring pipeline, and document assessment prototype.*  
+  `Python` `Machine Learning` `Data Processing`
+
+- 🛍️ [AI-Clothing-Store](https://github.com/Az1zbekx/ai-clothing-store)  
+  *Full-stack intelligent e-commerce catalog application with automated recommendation backend.*  
+  `Python` `Backend APIs` `Frontend`
+
+---
+
 ### 🛠️ Tech Stack & Tools
 - **Languages:** Python, C++, SQL, Bash
 - **Computer Vision & ML:** PyTorch, Ultralytics YOLO (v8, v11), OpenCV, scikit-learn
@@ -31,5 +50,5 @@
 ---
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Az1zbekx?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/0QJ6TxH8th?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
 </div>
