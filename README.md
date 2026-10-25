@@ -50,5 +50,5 @@
 ---
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/0QJ6TxH8th?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Az1zbekx?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
 </div>
